@@ -1,0 +1,34 @@
+{
+  "INF194K01P53": [
+    { "sector": "Government Securities", "allocation": "96.46%" },
+    { "sector": "treps/reverse repo", "allocation": "2.00%" },
+    { "sector": "Current Assets", "allocation": "1.53%" },
+    { "sector": "Cash", "allocation": "0.01%" }
+  ],
+  "INF194K01P87": [
+    { "sector": "Government Securities", "allocation": "96.46%" },
+    { "sector": "treps/reverse repo", "allocation": "2.00%" },
+    { "sector": "Current Assets", "allocation": "1.53%" },
+    { "sector": "Cash", "allocation": "0.01%" }
+  ],
+  "INF194K01Q29": [
+    { "sector": "Government Securities", "allocation": "99.25%" },
+    { "sector": "Current Assets", "allocation": "0.50%" },
+    { "sector": "treps/reverse repo", "allocation": "0.25%" },
+    { "sector": "Cash", "allocation": "0%" }
+  ],
+  "INF179KA1I61": [
+    { "sector": "Non Convertible Debentures", "allocation": "76.01%" },
+    { "sector": "Government Securities", "allocation": "9.01%" },
+    { "sector": "Commercial Paper", "allocation": "4.00%" },
+    { "sector": "Current Assets", "allocation": "3.68%" },
+    { "sector": "Debt", "allocation": "1.97%" }
+  ],
+  "INF179KA1IZ7": [
+    { "sector": "Non Convertible Debentures", "allocation": "64.69%" },
+    { "sector": "Government Securities", "allocation": "17.86%" },
+    { "sector": "Certificate of Deposits", "allocation": "12.99%" },
+    { "sector": "Current Assets", "allocation": "2.64%" },
+    { "sector": "Commercial Paper", "allocation": "1.31%" }
+  ]
+}
