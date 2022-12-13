@@ -97,7 +97,7 @@ async function main() {
 
     const fundsData = {};
 
-    for (const id of IDs.slice(0, 10)) {
+    for (const id of IDs) {
       const page = await browser.newPage();
       await page.setUserAgent(
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4298.0 Safari/537.36"
